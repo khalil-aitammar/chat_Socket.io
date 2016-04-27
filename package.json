@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/khalilammarCraft/chat_Socket.io/issues"
   },
-  "homepage": "https://github.com/khalilammarCraft/chat_Socket.io#readme"
+  "homepage": "https://github.com/khalilammarCraft/chat_Socket.io#readme",
+  "dependencies": {
+    "socket.io": "^1.4.5"
+  }
 }
